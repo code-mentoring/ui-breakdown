@@ -7,6 +7,7 @@
   background: $color-blue-500;
   border-radius: 4px; // Deliberately kept as pixel value
   transition: background-color 0.2s;
+  box-shadow: 0px 5px 7px 1px #0077ff47;
 
   &:hover {background-color: $color-blue-400; }
   &:active {background-color: $color-blue-600; }
